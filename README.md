@@ -17,10 +17,10 @@ I'm a computer engineer and I intend to build a solid career as a Software Engin
 
 Outside of engineering, I’m a passionate explorer of life’s creative sides:
 
-- 🎥 I love cinema — from timeless classics to modern storytelling masterpieces.
-- 📚 Reading is my escape and a source of constant inspiration.
+- 🎥 I love cinema
+- 📚 Reading is my source of constant inspiration.
 - 📸 Photography helps me frame the beauty I see in everyday moments.
-- 🍳 Cooking is my therapy — I enjoy experimenting with flavors and crafting delicious meals.
+- 🍳 Cooking — I enjoy experimenting with flavors and crafting delicious meals.
 - 🐾 Animals hold a special place in my heart. I'm always up for petting dogs or watching wildlife documentaries.
 
 These hobbies help me stay curious, balanced, and inspired in both life and code.
@@ -31,3 +31,7 @@ Want to connect, collaborate, or just say hi? I'm always open to chatting!
 
 - 📱 WhatsApp: [ +55 (98) 9 8718-0471 ](https://wa.me/5598987180471)
 - 📧 Email: [jordan.marques@discente.ufma.br](mailto:jordan.marques@discente.ufma.br)
+
+## More aboute me in my website
+
+🖥️ [Click here][https://jordan-will.github.io/jordan-will/]
