@@ -34,4 +34,4 @@ Want to connect, collaborate, or just say hi? I'm always open to chatting!
 
 ## More aboute me in my website
 
-🖥️ [Click here][https://jordan-will.github.io/jordan-will/]
+🖥️ [Click here](https://jordan-will.github.io/jordan-will/)
