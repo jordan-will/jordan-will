@@ -32,6 +32,6 @@ Want to connect, collaborate, or just say hi? I'm always open to chatting!
 - 📱 WhatsApp: [ +55 (98) 9 8718-0471 ](https://wa.me/5598987180471)
 - 📧 Email: [jordan.marques@discente.ufma.br](mailto:jordan.marques@discente.ufma.br)
 
-## 🖥️ More aboute me in my website
+## 🖥️ More about me in my website
 
 [Click here](https://jordan-will.github.io/jordan-will/)
