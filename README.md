@@ -4,11 +4,12 @@
 I'm a computer engineer and I intend to build a solid career as a Software Engineer and Architect, with an emphasis on Front-End and Mobile development, through hybrid technologies. My work is focused on the JavaScript ecosystem, exploring its versatility for the development of APIs, mobile applications and web platforms.  
 
 ## ⚒️ Skills
-- Front-End: Angular, Vue.js, React.js
-- Mobile Development: Ionic Framework, React Native
-- Back-End: Node.js, Express, Nest.js
-- Database: SQL, MySQL, PostgreSQL, MongoDB, Redis
+- Front-End: Angular and Vue.js
+- Mobile Development: Ionic Framework
+- Back-End: Node.js, Express
+- Database: SQL, MySQL, PostgreSQL, MongoDB
 - Styles: SASS/SCSS, Tailwind
+- Others: Firebase
 
 ## 📚 Learning
 - Mixed Reality: Three.js, Babylon.js, Ar.js, AFrame
