@@ -14,7 +14,7 @@ I'm a computer engineer and I intend to build a solid career as a Software Engin
 ## 📚 Learning
 - Mixed Reality: Three.js, Babylon.js, Ar.js, AFrame
 
-## 🎬 Fun Facts About Me
+## 🎬 More about me
 
 Outside of engineering, I’m a passionate explorer of life’s creative sides:
 
